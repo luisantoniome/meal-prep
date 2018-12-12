@@ -39,6 +39,11 @@
       "parser": "babel-eslint"
     }
   },
+  "prettier": {
+    "tabWidth": 2,
+    "singleQuote": true,
+    "semi": false
+  },
   "postcss": {
     "plugins": {
       "autoprefixer": {}
